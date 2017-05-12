@@ -27,6 +27,12 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 - links:
   - [how does elixir compile code](https://medium.com/@fxn/how-does-elixir-compile-execute-code-c1b36c9ec8cf)
 
+#### Exploring CQRS and Event Sourcing: A Journey into High Scalability, Availability and Maintainability by Tonći Galić
+
+- [slides](https://tuxified.github.io/elixirconf-eu-2017-talk)
+- links:
+  - [bank example app](https://github.com/tuxified/elixirconf-eu-2017-talk/blob/master/examples/bank) (adapted version of Bryan Hunters work)
+  
 #### Refactoring Elixir - Lessons Learned from a Year on exercism.io by Devon Estes
 
 - [slides](https://speakerdeck.com/devonestes/refactoring-elixir-lessons-learned-from-a-year-on-exercism-dot-io)
