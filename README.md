@@ -21,6 +21,9 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 
 #### A Tour of the Elixir Source Code by Xavier Noria
 
+- links:
+  - [how does elixir compile code](https://medium.com/@fxn/how-does-elixir-compile-execute-code-c1b36c9ec8cf)
+
 #### Refactoring Elixir - Lessons Learned from a Year on exercism.io by Devon Estes
 
 - [slides](https://speakerdeck.com/devonestes/refactoring-elixir-lessons-learned-from-a-year-on-exercism-dot-io)
