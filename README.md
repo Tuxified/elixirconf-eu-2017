@@ -19,6 +19,9 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 
 #### Opening Keynote by [José Valim](https://twitter.com/josevalim)
 
+- links:
+  - [Google Summer of Code ideas](https://github.com/beamcommunity/beamcommunity.github.com/wiki/Project:-Elixir)
+
 #### A Tour of the Elixir Source Code by Xavier Noria
 
 - links:
@@ -37,6 +40,9 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 #### Elixir and Money by Tomasz Kowal
 
 #### DBConnection - Ecto's SQL Sandbox by James Fish
+
+- links:
+  - [binary efficiency guide](http://erlang.org/doc/efficiency_guide/users_guide.html)
 
 #### The Best Library I Ever Designed by Andrea Leopardi
 
@@ -106,6 +112,7 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 
 - links:
   - [GraphQL lib](https://github.com/absinthe-graphql/absinthe)
+  - [upcoming book](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe)
 
 #### Gauging Progress by Chris McCord
 
