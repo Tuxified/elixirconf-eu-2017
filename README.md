@@ -155,10 +155,13 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 - links:
   - [Github: Ace](https://github.com/crowdhailer/ace)
 
-#### Eve Online - logger
+#### Introducing ExLoglite
 
+- [slides](https://speakerdeck.com/aquarhead/introducing-exloglite)
 - links:
-  - [blog post about logging backend - ExLogLite](http://blog.aquarhead.me/2016/11/exloglite)
+  - [github](https://github.com/ElaWorkshop/ex_loglite)
+  - [hex](https://hex.pm/packages/ex_loglite)
+  - [blog](http://blog.aquarhead.me/2016/11/exloglite)
 
 ## etc
 - [xprof - A visual profiler for Erlang and Elixir](https://github.com/Appliscale/xprof)
