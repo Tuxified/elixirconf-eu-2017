@@ -109,6 +109,7 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 
 #### Testing Web Services with QuickCheck by Thomas Arts
 
+- [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/627/original/ElixirConfEU_2017_-_TestingWebServiceWithQC_-_Thomas_Arts.pdf?1495020439)
 - links:
   - [QuickCheck Mini for Elixir video course](https://vimeo.com/179939473)
 
