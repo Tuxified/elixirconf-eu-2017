@@ -13,6 +13,7 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 - [ElixirConf.EU 2017](https://zorbash.com/post/elixirconfeu-2017/) by Dimitris Zorbas
 - [ElixirConf.EU 2017 was a blast](https://medium.com/@LifeAndDev/elixirconf-eu-2017-was-a-blast-22afe7925dd4) by Markus Podar
 - [Zweitag at ElixirConf.EU 2017](https://www.zweitag.de/de/blog/technologie/zweitag-at-elixirconfeu-2017) by  Peter Brüske, Ruben Grimm and Patrick Oscity 
+- [ElixirConf.EU 2017 Recap for Elixir Shanghai](https://speakerdeck.com/aquarhead/elixirconf-dot-eu-2017-recap) by Lou Xen
 
 ## Talks
 
