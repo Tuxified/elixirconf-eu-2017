@@ -12,6 +12,7 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 - [ElixirConf EU 2017 - Growing Up](http://trivelop.de/2017/05/07/elixirconf-eu-growing-up/) by René Föhring
 - [ElixirConf.EU 2017](https://zorbash.com/post/elixirconfeu-2017/) by Dimitris Zorbas
 - [ElixirConf.EU 2017 was a blast](https://medium.com/@LifeAndDev/elixirconf-eu-2017-was-a-blast-22afe7925dd4) by Markus Podar
+- [Zweitag at ElixirConf.EU 2017](https://www.zweitag.de/de/blog/technologie/zweitag-at-elixirconfeu-2017) by  Peter Brüske, Ruben Grimm and Patrick Oscity 
 
 ## Talks
 
@@ -77,6 +78,11 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 ### Day 2
 
 #### The Age of Elixir by Tetiana Dushenkivska and Keith Salisbury
+
+- [slides](https://speakerdeck.com/tetiana12345678/the-age-of-elixir)
+- links:
+  - [Crash Course Computer Science Preview](goo.gl/eCiHMn)
+  - [Bartosz Milewski - Category Theory](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_)
 
 #### Just Enough Plug to Build a Web server by Ole Michaelis
 
