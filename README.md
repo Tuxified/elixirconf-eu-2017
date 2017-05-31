@@ -110,7 +110,7 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 - [slides](http://doppioslash.com/slides/ElixirConf2017.pdf)
 
 #### Fly like an Eagle by Loic Vigneron
-
+- [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/625/original/ElixirConf_EU_2017_-_Fly_like_an_Eagle_-_Loic_Vigneron.pdf?1494527377)
 - links:
   - [Github Elicopter](https://github.com/elicopter)
 
@@ -170,6 +170,10 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
   - [github](https://github.com/ElaWorkshop/ex_loglite)
   - [hex](https://hex.pm/packages/ex_loglite)
   - [blog](http://blog.aquarhead.me/2016/11/exloglite)
+  
+### Interviews
+
+- [Youtube playlist](https://www.youtube.com/watch?v=NWsjQIHIzO0&list=PLWbHc_FXPo2i2HVxbp25pst4v5d6WmhNM&index=1)
 
 ## etc
 - [xprof - A visual profiler for Erlang and Elixir](https://github.com/Appliscale/xprof)
