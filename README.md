@@ -113,9 +113,9 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 - [slides](https://slidr.io/tverlaan/nervous-system-nerves-clustering-using-your-own-distribution#1)
 - [video](https://www.youtube.com/watch?v=kMHXd_iMGRU)
 - links:
+  - [nervous_system](https://github.com/tverlaan/nervous_system)
   - [lib/code](https://github.com/tverlaan/inet_tcp_dist)
   - [distributed_spinner](https://github.com/tverlaan/distributed_spinner) 
-  - [ex_sshd](https://github.com/tverlaan/ex_sshd)
 
 #### Background Processing with RabbitMQ by Tatsuya Ono
 
