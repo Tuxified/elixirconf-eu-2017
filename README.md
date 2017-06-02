@@ -111,6 +111,7 @@ A collection of links that summarize ElixirConf EU 2017. Original idea from Laur
 
 #### Fly like an Eagle by Loic Vigneron
 - [slides](http://s3.amazonaws.com/erlang-conferences-production/media/files/000/000/625/original/ElixirConf_EU_2017_-_Fly_like_an_Eagle_-_Loic_Vigneron.pdf?1494527377)
+- [video](https://www.youtube.com/watch?v=TZnaqnxA4UY)
 - links:
   - [Github Elicopter](https://github.com/elicopter)
 
